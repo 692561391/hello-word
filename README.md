@@ -1,2 +1,3 @@
 # hello-word
-just a test
+Hi
+这是张志安的第一个项目
